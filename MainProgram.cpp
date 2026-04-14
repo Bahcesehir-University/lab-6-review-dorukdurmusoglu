@@ -50,7 +50,7 @@ public:
 
  Student() : name("Unknown"), id(0), gpa(0.0) {
  // YOUR CODE HERE
- name="unknown";
+ name="Unknown";
  id=0;
  gpa=0.0;
  }
